@@ -1,4 +1,4 @@
-# T.U.G.O.N. — Barangay 40 & 41, Cavite City
+# T.U.G.O.N — Barangay 40 & 41, Cavite City
 ### Waste Collection & Official Proof Management System with Raspberry Pi Cloud Storage
 
 ## Overview
